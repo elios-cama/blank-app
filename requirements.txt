@@ -4,3 +4,6 @@ langchain_community
 langchain_core
 sentence_transformers
 langchain_huggingface
+pypdf
+tiktoken
+faiss-gpu
